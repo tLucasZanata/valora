@@ -1,6 +1,6 @@
 package br.com.valora.Service.impl;
 
-import br.com.valora.Service.ClienteServiceImpl;
+import br.com.valora.Service.impl.ClienteServiceImpl;
 import br.com.valora.model.Cliente;
 import br.com.valora.repository.ClienteRepository;
 import org.junit.jupiter.api.BeforeEach;

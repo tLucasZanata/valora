@@ -1,6 +1,6 @@
 package br.com.valora.Service.impl;
 
-import br.com.valora.Service.RegistroServicoServiceImpl;
+import br.com.valora.Service.impl.RegistroServicoServiceImpl;
 import br.com.valora.model.Produto;
 import br.com.valora.model.ProdutoServico;
 import br.com.valora.model.RegistroServico;

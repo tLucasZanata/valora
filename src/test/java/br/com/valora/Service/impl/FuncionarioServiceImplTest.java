@@ -1,6 +1,6 @@
 package br.com.valora.Service.impl;
 
-import br.com.valora.Service.FuncionarioServiceImpl;
+import br.com.valora.Service.impl.FuncionarioServiceImpl;
 import br.com.valora.model.Funcionario;
 import br.com.valora.repository.FuncionarioRepository;
 import org.junit.jupiter.api.BeforeEach;
