@@ -1,4 +1,4 @@
-package br.com.valora.Service;
+package br.com.valora.Service.impl;
 
 import br.com.valora.model.Usuario;
 import br.com.valora.repository.UsuarioRepository;
